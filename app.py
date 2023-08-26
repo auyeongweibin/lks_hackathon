@@ -2,7 +2,9 @@ from flask import Flask, request
 from flask_cors import CORS
 import requests
 from config import SEARCH_URL, GET_RESOURCE
+from cache import cache
 
+# Resolves reference url to get actual resource url
 def get_url(doc):
     resource_url = GET_RESOURCE
     url = ''
@@ -36,18 +38,29 @@ def search():
     docs = res['docs']
     if len(docs) == 0:
         return {'Message': 'Sorry we could not find any related resources'}
-    result = [
-        {
+    result = []
+    for d in docs:
+        url = get_url(d)
+        result.append( {
             'type': d['pnx']['display']['type'][0] if d['pnx']['display'].get('type') else '',
             'title': d['pnx']['display']['title'][0] if d['pnx']['display'].get('title') else '',
             'publisher': d['pnx']['display']['publisher'][0] if d['pnx']['display'].get('publisher') else '',
-            'description': d['pnx']['display']['description'][0] if d['pnx']['display'].get('description') else '',
-            'link': get_url(d),
-            'summary': ''
-        } for d in docs
-    ]
+            'description': d['pnx']['display']['publisher'][0] if d['pnx']['display'].get('description') else '',
+            'link': url,
+            'cached': cache[url] if cache.get(url) is not None else -1
+        })
+
+    # Remove duplicate search results
+    duplicates = {}
+    filtered_results = []
+
+    for r in result:
+        if duplicates.get(r['link']) is None:
+            filtered_results.append(r)
+            duplicates[r['link']] = 0
+
     # TODO: Get Summary
-    return {'Resources': result}
+    return {'Resources': filtered_results}
 
 if __name__ == "__main__":
     app.run()

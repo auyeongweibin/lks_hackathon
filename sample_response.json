@@ -1,83 +1,83 @@
 {
   "Resources": [
     {
-      "description": "ChatGPT For Dummies demystifies the artificial intelligence tool that can answer questions, write essays, and generate just about any kind of text it's asked for. This powerful example of generative AI is widely predicted to upend education and business. In this book, you'll learn how ChatGPT works and how you can operate it in a way that yields satisfactory results. You'll also explore the ethics of using AI-generated content for various purposes. Written by a journalist who's been on the front lines of artificial intelligence for over a decade, this book dives deep into ChatGPT's potential, so you can make informed decisions--without asking ChatGPT for help.",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/alma99646962702601?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "Hoboken, New Jersey : John Wiley & Sons, Inc.",
+      "description": "",
+      "link": "http://libproxy.smu.edu.sg/login?url=http://link.springer.com/10.1007/978-1-4842-9367-6",
+      "publisher": "Berkeley, CA: Apress L. P",
       "summary": "",
-      "title": "ChatGPT \u2122 ",
+      "title": "Generative AI: How ChatGPT and Other AI Tools Will Revolutionize Business",
       "type": "book"
     },
     {
-      "description": "Earlier this month, New York City public schools blocked access to the popular artificial intelligence tool ChatGPT. Educators are concerned that students could use this technology to write papers - the tool wasn't even a month old when a college professor in South Carolina caught a student using it to write an essay in philosophy class. Darren Hick of Furman University joins John Yang to discuss.",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/alma99642194702601?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "Place of publication not identified : NewsHour Productions LLC",
+      "description": "",
+      "link": "http://libproxy.smu.edu.sg/login?url=http://link.springer.com/10.1007/978-1-4842-9579-3",
+      "publisher": "Berkeley, CA : Apress L. P.",
       "summary": "",
-      "title": "ChatGPT ",
+      "title": "Creative Prototyping with Generative AI : Augmenting Creative Workflows with Generative AI.",
+      "type": "book"
+    },
+    {
+      "description": "",
+      "link": "http://libproxy.smu.edu.sg/login?url=http://link.springer.com/10.1007/978-1-4842-9367-6",
+      "publisher": "Monrovia, CA : Apress L. P.",
+      "summary": "",
+      "title": "Generative AI : how ChatGPT and other AI tools will revolutionize business ",
+      "type": "book"
+    },
+    {
+      "description": "Generative AI has revolutionized the art world by providing an entirely new way to create unique and stunning visuals. In today's age of technology, it's essential to keep up with the latest tools and techniques, and this is where this comprehensive course on AI-generated art comes in. In this course, you will learn how to create stunning visuals using the latest AI art software, including DALL-E, Midjourney, and other tools. You will begin by learning the basics of generative AI and its applications in art. From there, you will explore various AI art software and learn how to use them to create beautiful pieces of art. The course will cover everything from generating simple images to creating complex visuals and textures. You will learn how to tweak parameters, adjust styles, and create custom datasets to get the exact output you want. Additionally, you will explore the different types of generative art, including style transfer, GANs, and neural style transfer. By the end of this course, you will be well-versed in generative AI and its applications in art. You will have a solid understanding of how to use various AI art software, including DALL-E, Midjourney, and others, to create stunning visuals. What You Will Learn Understand the theory behind AI and GPT-3 Learn how to construct effective text prompts for AI art Learn different framing techniques for AI-generated art Explore different AI art software and their unique features Implement image URLs for visual inspiration in Midjourney Learn how to perform image masking with DALL-E 2 Audience This course is ideal for anyone who is interested in exploring the potential of generative AI art. Whether you are an artist, graphic designer, photographer, or simply a creative person, this course will equip you with the skills and knowledge to produce stunning and unique AI-generated artwork. No prior experience in programming or AI is required as this course is designed for beginners. About The Author Oliver Theobald: Oliver Theobald is an accomplished technical writer and the best-selling author of \"Machine Learning for Absolute Beginners\". With expertise in AI, fintech, and cloud computing, he has worked in various technical roles across the globe. Oliver currently splits his time between China and Japan, where he continues to expand his knowledge and passion for emerging technologies. As an instructor, Oliver brings a unique approach to teaching complex topics. He believes in cutting through the jargon and presenting information in a clear, concise, and engaging manner. His course content is designed to be easy to understand, yet powerful in its application. Whether you're an absolute beginner or an experienced professional, Oliver's goal is to help you build the skills and knowledge you need to succeed in your field.",
+      "link": "https://learning.oreilly.com/library/view/Generative-AI-art/9781835084304/?ar",
+      "publisher": "Place of publication not identified : Packt Publishing",
+      "summary": "",
+      "title": "Generative AI art for beginners.",
       "type": "video"
     },
     {
-      "description": "In the first half of 2023, text-generative artificial intelligence (AI), including ChatGPT from OpenAI, has attracted considerable attention worldwide. In this study, first, we compared Japanese stylometric features of texts generated by ChatGPT, equipped with GPT-3.5 and GPT-4, and those written by humans. In this work, we performed multi-dimensional scaling (MDS) to confirm the distributions of 216 texts of three classes (72 academic papers written by 36 single authors, 72 texts generated by GPT-3.5, and 72 texts generated by GPT-4 on the basis of the titles of the aforementioned papers) focusing on the following stylometric features: (1) bigrams of parts-of-speech, (2) bigram of postpositional particle words, (3) positioning of commas, and (4) rate of function words. MDS revealed distinct distributions at each stylometric feature of GPT (3.5 and 4) and human. Although GPT-4 is more powerful than GPT-3.5 because it has more parameters, both GPT (3.5 and 4) distributions are overlapping. These results indicate that although the number of parameters may increase in the future, GPT-generated texts may not be close to that written by humans in terms of stylometric features. Second, we verified the classification performance of random forest (RF) classifier for two classes (GPT and human) focusing on Japanese stylometric features. This study revealed the high performance of RF in each stylometric feature: The RF classifier focusing on the rate of function words achieved 98.1% accuracy. Furthermore the RF classifier focusing on all stylometric features reached 100% in terms of all performance indexes (accuracy, recall, precision, and F1 score). This study concluded that at this stage we human discriminate ChatGPT from human limited to Japanese language.",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_gale_incontextgauss_ISR_A760195537?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "Public Library of Science",
+      "description": "Generative AI and ChatGPT have the potential to transform industries and society by improving efficiency, enhancing creativity, and enabling more personalized experiences. If you are someone who is looking to stay ahead of the curve in this rapidly evolving digital age and utilize its potential, this book is for you.",
+      "link": "http://libproxy.smu.edu.sg/login?url=https://libproxy.smu.edu.sg/sso/skillport/sso/skillport?context=164563",
+      "publisher": "Los Angeles : BPB Publications",
       "summary": "",
-      "title": "Distinguishing ChatGPT",
-      "type": "article"
+      "title": "Rise of Generative AI and ChatGPT.",
+      "type": "book"
     },
     {
-      "description": "Conversational AI is a game-changer for science. Since a chatbot called ChatGPT was released late last year, it has become apparent that this type of artificial intelligence (AI) technology will have huge implications on the way in which researchers work. ChatGPT is a large language model (LLM), a machine-learning system that autonomously learns from data and can produce sophisticated and seemingly intelligent writing after training on a massive data set of text. To prevent human automation bias - an over-reliance on automated systems - it will become even more crucial to emphasize the importance of accountability8. In the future, LLMs are likely to be incorporated into text processing and editing tools, search engines and programming tools. [...]they might contribute to scientific work without authors necessarily being aware of the nature or magnitude of the contributions.",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_proquest_journals_2775798280?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "England: Nature Publishing Group",
+      "description": "Ongoing lawsuits could affect everyone who uses generative AI.",
+      "link": "http://libproxy.smu.edu.sg/login?url=https://doi.org/10.1126/science.adi0656?locatt=mode:legacy",
+      "publisher": "United States: The American Association for the Advancement of Science",
       "summary": "",
-      "title": "ChatGPT: five priorities for research",
-      "type": "article"
-    },
-    {
-      "description": "In less than 2 months, the artificial intelligence (AI) program ChatGPT has become a cultural sensation. It is freely accessible through a web portal created by the tool's developer, OpenAI. The program-which automatically creates text based on written prompts-is so popular that it's likely to be \"at capacity right now\" if you attempt to use it. When you do get through, ChatGPT provides endless entertainment. I asked it to rewrite the first scene of the classic American play\n, but to feature Princess Elsa from the animated movie\nas the main character instead of Willy Loman. The output was an amusing conversation in which Elsa-who has come home from a tough day of selling-is told by her son Happy, \"Come on, Mom. You're Elsa from\n. You have ice powers and you're a queen. You're unstoppable.\" Mash-ups like this are certainly fun, but there are serious implications for generative AI programs like ChatGPT in science and academia.",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_proquest_miscellaneous_2770116761?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "United States: American Association for the Advancement of Science",
-      "summary": "",
-      "title": "ChatGPT is fun, but not an author",
-      "type": "article"
-    },
-    {
-      "description": "Publishers and preprint servers contacted by Nature's news team agree that AIs such as ChatGPT do not fulfil the criteria for a study author, because they cannot take responsibility for the content and integrity of scientific papers. (Victor Tseng, the preprint's corresponding author and medical director of Ansible Health in Mountain View, California, did not respond to a request for comment.) An editorial2 in the journal Nurse Education in Practice this month credits the AI as a co-author, alongside Siobhan O'Connor, a health-technology researcher at the University of Manchester, UK. The board of the physical-sciences preprint server arXiv has had internal discussions and is beginning to converge on an approach to the use of generative AIs, says scientific director Steinn Sigurdsson, an astronomer at Pennsylvania State University in University Park.",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_proquest_journals_2770362648?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "London: Nature Publishing Group",
-      "summary": "",
-      "title": "CHATGPT LISTED AS AUTHOR ON RESEARCH PAPERS",
-      "type": "article"
-    },
-    {
-      "description": "Software company OpenAI, based in San Francisco, California, released the tool on 30 November, and it is free to use. Since its release, researchers have been grappling with the ethical issues surrounding its use, because much of the chatbot's output can be difficult to distinguish from human-written text. [...]a group led by Catherine Gao at Northwestern University in Chicago, Illinois, has used ChatGPT to generate artificial research-paper abstracts to test whether scientists can spot them. The researchers asked the chatbot to write 50 medical-research abstracts based on a selection published inJAMA, The New EnglandJournal ofMedicine, The BMJ, The Lancet and Nature Medicine.",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_proquest_miscellaneous_2765776361?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "England: Nature Publishing Group",
-      "summary": "",
-      "title": "Abstracts written by ChatGPT fool scientists",
+      "title": "Generative AI meets copyright",
       "type": "article"
     },
     {
       "description": "",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_proquest_ebookcentral_EBC7251200?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "Newark: John Wiley & Sons, Incorporated",
+      "link": "http://libproxy.smu.edu.sg/login?url=http://link.springer.com/10.1007/978-1-4842-9579-3",
+      "publisher": "Berkeley, CA: Apress L. P",
       "summary": "",
-      "title": "ChatGPT for Dummies",
+      "title": "Creative Prototyping with Generative AI: Augmenting Creative Workflows with Generative AI",
       "type": "book"
     },
     {
-      "description": "\u2022ChatGPT outputs are as biased as human communication\u2022Ethics guidelines for the use of large-scale language models in academia are needed\u2022ChatGPT can be used within the bounds of academic integrity\u2022large-scale language models can support interdisciplinarity in (tourism) research\u2022large-scale language models may enhance equity in academic research and publishing",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_gale_infotracacademiconefile_A742791825?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "Elsevier Ltd",
+      "description": "",
+      "link": "http://libproxy.smu.edu.sg/login?url=https://www.tandfonline.com/doi/abs/10.1080/08956308.2023.2213102",
+      "publisher": "Routledge",
       "summary": "",
-      "title": "ChatGPT and tourism academia",
+      "title": "The Transformative Potential of Generative AI: A Conversation with Ethan MollickJim Euchner talks with Ethan Mollick about generative AI: its potential to transform work and what organizations-and individuals-ought to do . . . now",
       "type": "article"
     },
     {
-      "description": "Author Affiliation: (1) Institute of Ethics, Dublin City University, Dublin, Ireland (2) Duquesne University, Pittsburgh, USA (3) Anahuac University, Mexico City, Mexico (a) bert.gordijn@dcu.ie Article History: Registration Date: 01/02/2023 Online Date: 01/19/2023 Byline:",
-      "link": "https://search.library.smu.edu.sg/primaws/rest/pub/directLink/cdi_proquest_miscellaneous_2767169465?lang=en&vid=65SMU_INST:SMU_NUI",
-      "publisher": "Dordrecht: Springer Netherlands",
+      "description": "",
+      "link": "http://libproxy.smu.edu.sg/login?url=https://www.proquest.com/docview/2352323896?pq-origsite=primo",
+      "publisher": "United States: Nature Publishing Group",
       "summary": "",
-      "title": "ChatGPT: evolution or revolution?",
+      "title": "Assessing the impact of generative AI on medicinal chemistry",
+      "type": "article"
+    },
+    {
+      "description": "",
+      "link": "http://libproxy.smu.edu.sg/login?url=https://doi.ieeecomputersociety.org/10.1109/MS.2023.3300574",
+      "publisher": "",
+      "summary": "",
+      "title": "Generative AI Assistants in Software Development Education: A vision for integrating Generative AI into educational practice, not instinctively defending against it",
       "type": "article"
     }
   ]
