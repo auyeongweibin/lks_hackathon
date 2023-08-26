@@ -38,16 +38,15 @@ def search():
         return {'Message': 'Sorry we could not find any related resources'}
     result = [
         {
-            'type': d['pnx']['display']['type'][0],
-            'title': d['pnx']['display']['title'][0],
-            'publisher': d['pnx']['display']['publisher'][0],
+            'type': d['pnx']['display']['type'][0] if d['pnx']['display'].get('type') else '',
+            'title': d['pnx']['display']['title'][0] if d['pnx']['display'].get('title') else '',
+            'publisher': d['pnx']['display']['publisher'][0] if d['pnx']['display'].get('publisher') else '',
             'description': d['pnx']['display']['description'][0] if d['pnx']['display'].get('description') else '',
             'link': get_url(d),
             'summary': ''
         } for d in docs
     ]
     # TODO: Get Summary
-    # TODO: Get Link
     return {'Resources': result}
 
 if __name__ == "__main__":
